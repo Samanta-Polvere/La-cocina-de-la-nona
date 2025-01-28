@@ -17,7 +17,7 @@ const Footer = () => {
                 <h2 className='nombreProyecto'>La cocina de la nona</h2>
             </div>
             
-            <spam className='copyright'>©2024 La cocina de la Nona</spam>
+            <span className='copyright'>©2024 La cocina de la Nona</span>
 
             <div className='redes'>
                 <img className='mail' src={imgMail} alt="Mail La cocina de la Nona" />
